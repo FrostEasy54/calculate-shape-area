@@ -6,7 +6,7 @@
 
 1. Установите `uv` (если ещё не установлен):
    ```bash
-   pip install uv-cli
+   curl -LsSf https://astral.sh/uv/install.sh | sh
     ```
 2. Создайте виртуальное окружение и активируйте его:
    ```bash
