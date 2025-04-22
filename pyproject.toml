@@ -1,0 +1,12 @@
+[project]
+name = "mindbox-test"
+version = "0.1.0"
+description = "library to calculate figures area"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pytest-html>=4.1.1",
+]
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["shapes*"]
