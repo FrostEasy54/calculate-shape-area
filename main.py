@@ -1,5 +1,5 @@
 def main():
-    print("Hello from hh-test!")
+    print("Hello from calculate-shape-area!")
 
 
 if __name__ == "__main__":
